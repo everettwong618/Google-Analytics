@@ -1,0 +1,11 @@
+# Survey Analytics Dashboard - dependencies
+# Install with:  pip install -r requirements.txt
+
+streamlit>=1.58      # web dashboard UI
+plotly>=6.8          # interactive charts
+pandas>=2.2          # data loading & analysis
+gspread>=6.2         # read live data from Google Sheets
+google-auth>=2.55    # Google authentication
+google-auth-oauthlib>=1.0   # OAuth "log in with Google" browser flow
+google-api-python-client>=2.100  # list Google Forms + linked response sheets
+watchdog>=6.0        # faster auto-reload for Streamlit (optional but recommended)
