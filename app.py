@@ -582,6 +582,23 @@ def render_dashboard(df: pd.DataFrame, key_prefix: str = "dashboard"):
 
 auto_on = False
 refresh_secs = None
+app_section = "Survey Analytics"
+
+with st.sidebar:
+    st.markdown("### Section")
+    app_section = st.radio(
+        "Section",
+        ["Survey Analytics", "Hotel Availability"],
+        horizontal=True,
+        label_visibility="collapsed",
+    )
+    st.markdown("---")
+
+if app_section == "Hotel Availability":
+    from hotel_page import render_hotel_checker
+
+    render_hotel_checker()
+    st.stop()
 
 with st.sidebar:
     st.markdown("### Data Source")
