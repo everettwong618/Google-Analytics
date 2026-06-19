@@ -9,3 +9,4 @@ google-auth>=2.55    # Google authentication
 google-auth-oauthlib>=1.0   # OAuth "log in with Google" browser flow
 google-api-python-client>=2.100  # list Google Forms + linked response sheets
 watchdog>=6.0        # faster auto-reload for Streamlit (optional but recommended)
+playwright>=1.49     # Omni Hotels availability checker (uses local Chrome)
