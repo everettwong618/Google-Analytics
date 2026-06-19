@@ -1,0 +1,93 @@
+[
+  {
+    "available": false,
+    "hotel_name": "Omni Nashville Hotel",
+    "hotel_id": "110009",
+    "arrival_date": "2027-07-14",
+    "departure_date": "2027-07-18",
+    "nights": 4,
+    "status_text": "14 Not Available Date",
+    "message": "No rooms available for arrival Jul 14, 2027 (4 nights, checkout Jul 18, 2027).",
+    "checked_at": "2026-06-19T14:31:23",
+    "booking_url": "https://bookings.omnihotels.com/calendar/hotel/110009/arrival/2027-07-14/nights/4/rooms/1/adults/2/children/empty/flexisearch/0/promocode/none/extras/none",
+    "error": null
+  },
+  {
+    "available": false,
+    "hotel_name": "Omni Nashville Hotel",
+    "hotel_id": "110009",
+    "arrival_date": "2027-07-14",
+    "departure_date": "2027-07-18",
+    "nights": 4,
+    "status_text": "14 Not Available Date",
+    "message": "No rooms available for arrival Jul 14, 2027 (4 nights, checkout Jul 18, 2027).",
+    "checked_at": "2026-06-19T14:31:45",
+    "booking_url": "https://bookings.omnihotels.com/calendar/hotel/110009/arrival/2027-07-14/nights/4/rooms/1/adults/2/children/empty/flexisearch/0/promocode/none/extras/none",
+    "error": null
+  },
+  {
+    "available": false,
+    "hotel_name": "Omni Nashville Hotel",
+    "hotel_id": "110009",
+    "arrival_date": "2027-07-14",
+    "departure_date": "2027-07-18",
+    "nights": 4,
+    "status_text": "14 Not Available Date",
+    "message": "No rooms available for arrival Jul 14, 2027 (4 nights, checkout Jul 18, 2027).",
+    "checked_at": "2026-06-19T14:31:48",
+    "booking_url": "https://bookings.omnihotels.com/calendar/hotel/110009/arrival/2027-07-14/nights/4/rooms/1/adults/2/children/empty/flexisearch/0/promocode/none/extras/none",
+    "error": null
+  },
+  {
+    "available": false,
+    "hotel_name": "Omni Nashville Hotel",
+    "hotel_id": "110009",
+    "arrival_date": "2027-07-14",
+    "departure_date": "2027-07-18",
+    "nights": 4,
+    "status_text": "Check failed",
+    "message": "Calendar did not load. The booking page layout may have changed.",
+    "checked_at": "2026-06-19T14:32:01",
+    "booking_url": "https://bookings.omnihotels.com/calendar/hotel/110009/arrival/2027-07-14/nights/4/rooms/1/adults/2/children/empty/flexisearch/0/promocode/none/extras/none",
+    "error": "Calendar did not load. The booking page layout may have changed."
+  },
+  {
+    "available": false,
+    "hotel_name": "Omni Nashville Hotel",
+    "hotel_id": "110009",
+    "arrival_date": "2027-07-14",
+    "departure_date": "2027-07-18",
+    "nights": 4,
+    "status_text": "Check failed",
+    "message": "Calendar did not load. The booking page layout may have changed.",
+    "checked_at": "2026-06-19T14:32:13",
+    "booking_url": "https://bookings.omnihotels.com/calendar/hotel/110009/arrival/2027-07-14/nights/4/rooms/1/adults/2/children/empty/flexisearch/0/promocode/none/extras/none",
+    "error": "Calendar did not load. The booking page layout may have changed."
+  },
+  {
+    "available": false,
+    "hotel_name": "Omni Nashville Hotel",
+    "hotel_id": "110009",
+    "arrival_date": "2027-07-14",
+    "departure_date": "2027-07-18",
+    "nights": 4,
+    "status_text": "14 Not Available Date",
+    "message": "No rooms available for arrival Jul 14, 2027 (4 nights, checkout Jul 18, 2027).",
+    "checked_at": "2026-06-19T14:32:25",
+    "booking_url": "https://bookings.omnihotels.com/calendar/hotel/110009/arrival/2027-07-14/nights/4/rooms/1/adults/2/children/empty/flexisearch/0/promocode/none/extras/none",
+    "error": null
+  },
+  {
+    "available": false,
+    "hotel_name": "Omni Nashville Hotel",
+    "hotel_id": "110009",
+    "arrival_date": "2027-07-14",
+    "departure_date": "2027-07-18",
+    "nights": 4,
+    "status_text": "14 Not Available Date",
+    "message": "No rooms available for arrival Jul 14, 2027 (4 nights, checkout Jul 18, 2027).",
+    "checked_at": "2026-06-19T14:32:38",
+    "booking_url": "https://bookings.omnihotels.com/calendar/hotel/110009/arrival/2027-07-14/nights/4/rooms/1/adults/2/children/empty/flexisearch/0/promocode/none/extras/none",
+    "error": null
+  }
+]
